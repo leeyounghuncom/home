@@ -66,19 +66,19 @@
             dataType: 'xml',
             success: function(xml) {
 
-                var $xml = $(xml);
-                var $items = $xml.find('item');
-                var $tbody = $('tbody');
+                const $xml = $(xml);
+                const $items = $xml.find('item');
+                const $tbody = $('tbody');
 
                 $tbody.empty(); // 기존 내용 지우기
 
                 $items.each(function(index) {
-                    var $item = $(this);
-                    var title = $item.find('title').text();
-                    var pubDate = formatDate($item.find('pubDate').text());
-                    var link = $item.find('link').text();
+                    const $item = $(this);
+                    const title = $item.find('title').text();
+                    const pubDate = formatDate($item.find('pubDate').text());
+                    const link = $item.find('link').text();
 
-                    var row = '<tr><td>' + pubDate + '</td><td><a href="'+link+'" target="_blank" class="' + (index === 0 ? 'text-danger fw-bold' : 'text-secondary') + ' text-decoration-none">' + title + '</a></td></tr>';
+                    const row = '<tr><td>' + pubDate + '</td><td><a href="'+link+'" target="_blank" class="' + (index === 0 ? 'text-danger fw-bold' : 'text-secondary') + ' text-decoration-none">' + title + '</a></td></tr>';
 
                     $tbody.append(row);
                 })
