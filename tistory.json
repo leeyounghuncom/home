@@ -1,5 +1,10 @@
 [
     {
+        "title": "코드카타 알고리즘 대한 나의 개인적인 생각과 소문 그리고 열등감",
+        "link": "https://blog.leeyounghun.com/entry/%EC%BD%94%EB%93%9C%EC%B9%B4%ED%83%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%8C%80%ED%95%9C-%EB%82%98%EC%9D%98-%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8-%EC%83%9D%EA%B0%81%EA%B3%BC-%EC%86%8C%EB%AC%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%97%B4%EB%93%B1%EA%B0%90",
+        "pubDate": "2024-07-28 13:41:55"
+    },
+    {
         "title": "소개 페이지 Ver 0.1 = 애널리틱스 + 크론탭 + 깃허브",
         "link": "https://blog.leeyounghun.com/entry/%EC%86%8C%EA%B0%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-Ver-01-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-%ED%81%AC%EB%A1%A0%ED%83%AD-%EA%B9%83%ED%97%88%EB%B8%8C",
         "pubDate": "2024-07-27 19:22:50"
@@ -243,10 +248,5 @@
         "title": "쿼리큘럼 예측 그리고 듣고 싶은 강의 물어보기 플라스크 SQL 웹서버 복습",
         "link": "https://blog.leeyounghun.com/entry/%EC%BF%BC%EB%A6%AC%ED%81%98%EB%9F%BC-%EC%98%88%EC%B8%A1-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%93%A3%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EA%B0%95%EC%9D%98-%EB%AC%BC%EC%96%B4%EB%B3%B4%EA%B8%B0-%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%81%AC-SQL-%EC%9B%B9%EC%84%9C%EB%B2%84-%EB%B3%B5%EC%8A%B5",
         "pubDate": "2024-06-07 05:03:08"
-    },
-    {
-        "title": "AI 시대 필요한 개발자 그리고 나의 공부 방향 재 정비",
-        "link": "https://blog.leeyounghun.com/entry/AI-%EC%8B%9C%EB%8C%80-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%82%98%EC%9D%98-%EA%B3%B5%EB%B6%80-%EB%B0%A9%ED%96%A5-%EC%9E%AC-%EC%A0%95%EB%B9%84",
-        "pubDate": "2024-06-06 08:33:52"
     }
 ]
